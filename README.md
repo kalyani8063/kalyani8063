@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalyani</h1>
 <h3 align="center">A passionate AIML developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://p1.hiclipart.com/preview/550/256/22/hello-kitty-hello-kitty-illustration.jpg">
+<img align="right" alt="image.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyani8063&label=Profile%20views&color=0e75b6&style=flat" alt="kalyani8063" /> </p>
 

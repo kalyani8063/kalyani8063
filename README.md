@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalyani</h1>
 <h3 align="center">A passionate AIML developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://p7.hiclipart.com/preview/762/292/859/hello-kitty-gif-pixel-sanrio-image-hello-kitty-frame.jpg">
+<img align="right" alt="Coding" width="400" src="https://p7.hiclipart.com/preview/762/292/859/hello-kitty-gif-pixel-sanrio-image-hello-kitty-frame.jpg](https://toppng.com/uploads/preview/1-23-11739845505ami8ihts8n.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyani8063&label=Profile%20views&color=0e75b6&style=flat" alt="kalyani8063" /> </p>
 

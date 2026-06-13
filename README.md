@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalyani</h1>
 <h3 align="center">A passionate AIML developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://p7.hiclipart.com/preview/364/466/408/github-website-development-software-developer-programmer-github-thumbnail.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.cleanpng.com/free/mona-lisa.html">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyani8063&label=Profile%20views&color=0e75b6&style=flat" alt="kalyani8063" /> </p>
 
